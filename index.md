@@ -5,7 +5,7 @@
 |:--:|:--:|:--:|:--:|
 | Sai Akhil M. | Leigh High School |  Engineering | Incoming Junior |
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](file:///Users/SamPro925/Downloads/IMG_0187%202.png)
 
 # Final Milestone
 Although my gesture controlled car is fully operational, I decided I would make some minor changes to improve the functionality of my project. First of all, I had to replace a deformed wheel on my car. One of the wheels on my car had a plastic deformity in its hole that connects to the motor's shaft. This made the wheel constantly pop off while the car was rolling on carpet or when it is bumping into something. When I ordered a new wheel and replaced the old one with the new one, the problem was solved. Secondly, I decided to add an on and off switch to my car to make it easier to use. Before, to turn on my car, I had to plug in two small metal wires into these female jumper wires. This was not very functional because the metal wires are very loosely connected to the male wires and this caused the car to power off. So I decided to solder a switch onto to the car to fix this problem. Lastly, my car was not very fast because the 9 volt batteries I was using kept dying too quickly because my car required lots of voltage and current. I replaced them with 6 1.5 volt batteries to solve the problem of needingn to replace the 9 volt batteries. Inadvertantly, this also made the car much faster because the 6 1.5 volt batteries sent in more current than a single 9 volt battery.  
