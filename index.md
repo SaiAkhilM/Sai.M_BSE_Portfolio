@@ -33,3 +33,41 @@ My first milestone was testing to see whether my accelerometer was functioning p
 [![Sai M Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1656090648/video_to_markdown/images/youtube--TC_BTJgpR0M-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=TC_BTJgpR0M "Sai M Milestone 1"){:target="_blank" rel="noopener"}
 
 
+
+# Bill of Materials 
+
+| **Part** | **Quantity** | **Description** | **Cost** | 
+|:--:|:--:|:--:|:--:|
+| Car Chassis Kit | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| Male to Female Wires | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| Male to Male Wire | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| 9 Volt Batteries | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| Arduino Uno | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| L289N Motor Driver | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| HC-05 Bluetooth Modules | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| Arduino Micro | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| ADXL345 Accelerometer | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| Perfboard | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| 1.5 Volt Batteries | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| Battery Holder | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| On and Off Switch | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| Glove | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| Hot Glue | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| Double Sided Tape | Leigh High School |  Engineering | Incoming Junior |
+|:--:|:--:|:--:|:--:|
+| Soldering Kit | Leigh High School |  Engineering | Incoming Junior |
