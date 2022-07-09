@@ -38,36 +38,36 @@ My first milestone was testing to see whether my accelerometer was functioning p
 
 | **Part** | **Quantity** | **Description** | **Cost** | 
 |:--:|:--:|:--:|:--:|
-| Car Chassis Kit | Leigh High School |  Engineering | Incoming Junior |
+| Car Chassis Kit | 1 | A car kit with frame, wheels and motors. | $19.99 |
 |:--:|:--:|:--:|:--:|
-| Male to Female Wires | Leigh High School |  Engineering | Incoming Junior |
+| Male to Female Wires | 10 |  Wires used to connect arduino with motors and drivers | $1.95 |
 |:--:|:--:|:--:|:--:|
-| Male to Male Wire | Leigh High School |  Engineering | Incoming Junior |
+| Male to Male Wire | 4 |  Wires used to connect arduino to accelerometer and bluetooth module | $1.95 |
 |:--:|:--:|:--:|:--:|
-| 9 Volt Batteries | Leigh High School |  Engineering | Incoming Junior |
+| 9 Volt Batteries | 2 | Standard 9 Volt Batteries | $8.99 |
 |:--:|:--:|:--:|:--:|
-| Arduino Uno | Leigh High School |  Engineering | Incoming Junior |
+| Arduino Uno | 1 | Programmable microcontroller board | $29.95 |
 |:--:|:--:|:--:|:--:|
-| L289N Motor Driver | Leigh High School |  Engineering | Incoming Junior |
+| L289N Motor Driver | 1 | A device that controls all motors for the vehicle | $8.99 |
 |:--:|:--:|:--:|:--:|
-| HC-05 Bluetooth Modules | Leigh High School |  Engineering | Incoming Junior |
+| HC-05 Bluetooth Modules | 2 | Allows communication between two modules wirelessly | $13.39 |
 |:--:|:--:|:--:|:--:|
-| Arduino Micro | Leigh High School |  Engineering | Incoming Junior |
+| Arduino Micro | 1 | Mini programmable microcontroller board | $19.38 |
 |:--:|:--:|:--:|:--:|
-| ADXL345 Accelerometer | Leigh High School |  Engineering | Incoming Junior |
+| ADXL345 Accelerometer | 2 | Device that measures the change in orientation on the X, Y, Z axis | $13.59 |
 |:--:|:--:|:--:|:--:|
-| Perfboard | Leigh High School |  Engineering | Incoming Junior |
+| Perfboard | 1 | electronic circuit holder | $5.99 |
 |:--:|:--:|:--:|:--:|
-| 1.5 Volt Batteries | Leigh High School |  Engineering | Incoming Junior |
+| Rechargeable 1.5 Volt Batteries | 6 | Rechargeable 1.5 Volt Batteries | $21.99  |
 |:--:|:--:|:--:|:--:|
-| Battery Holder | Leigh High School |  Engineering | Incoming Junior |
+| Battery Holder | 1 |  Battery holder for holding 6 1.5 Volt Batteries | $6.99 |
 |:--:|:--:|:--:|:--:|
-| On and Off Switch | Leigh High School |  Engineering | Incoming Junior |
+| On and Off Switch | 1 |  A switch to turn battery on and off | $1.99 |
 |:--:|:--:|:--:|:--:|
-| Glove | Leigh High School |  Engineering | Incoming Junior |
+| Glove | 1 |  A hand glove to attach electronics for gesture controller | $2.30 |
 |:--:|:--:|:--:|:--:|
-| Hot Glue | Leigh High School |  Engineering | Incoming Junior |
+| Hot Glue Gun | 1 |  A hot glue gun used to attach electronics to car and glove | $15.99 |
 |:--:|:--:|:--:|:--:|
-| Double Sided Tape | Leigh High School |  Engineering | Incoming Junior |
+| Double Sided Tape | 1 | Used to attach electronics to car | $5.00 |
 |:--:|:--:|:--:|:--:|
-| Soldering Kit | Leigh High School |  Engineering | Incoming Junior |
+| Soldering Kit | 1 | Soldering kit with electrical tools and lead to solder the electronics | $19.99 |
